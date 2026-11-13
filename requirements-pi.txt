@@ -1,0 +1,3 @@
+gpiozero>=2,<3
+lgpio>=0.2,<1
+# Solo para RC522: instalar por separado mfrc522 y spidev.
